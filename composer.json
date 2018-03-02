@@ -1,5 +1,5 @@
 {
-    "name": "pbmedia/binary-driver",
+    "name": "alchemy/binary-driver",
     "type": "library",
     "description": "A set of tools to build binary drivers",
     "keywords": ["binary", "driver"],
